@@ -43,9 +43,3 @@ Building an application that can predict the occurrence of a cardiac arrest or t
 ![image](https://user-images.githubusercontent.com/64016811/198956316-ee87e87e-daad-42a6-b852-6022a3a913c8.png)
 ![1](https://user-images.githubusercontent.com/64016811/198943446-ef8847ba-7c3c-468a-8a3e-4d0ef29ad287.png)
 ![image](https://user-images.githubusercontent.com/64016811/198943581-38dc1948-caac-4762-9f1a-1bdf2ef887f3.png)
-
-
-### Made with 💙 by:
-![maker](https://user-images.githubusercontent.com/64016811/198821378-09bf5224-a537-4154-9df9-d9b29da95af7.jpg)
-
-## MAINAK CHAUDHURI
